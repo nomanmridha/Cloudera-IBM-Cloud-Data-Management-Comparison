@@ -1,5 +1,10 @@
-# 📊 Cloudera vs IBM Cloud – Data Management Platform Comparison
+# 📊 Enterprise Data Platform Comparison  
+## Cloudera Data Platform vs IBM Cloud Pak for Data  
+![Platform Comparison](./assets/comparison_charts/cloudera_vs_ibm_comparison.png)
 
+---
+
+## 🎓 Academic & Research Badges  
 ![University](https://img.shields.io/badge/University-Fachhochschule%20Südwestfalen-blue)
 ![Course](https://img.shields.io/badge/Course-Data%20Science%20Project%20Seminar-green)
 ![Focus](https://img.shields.io/badge/Focus-Enterprise%20Data%20Platforms-orange)
@@ -13,16 +18,33 @@
 - **Course:** Data Science Project Seminar – Driving Corporate Performance
 - **Semester:** Summer Semester 2025
 - **Student:** Md Abdullah Al Noman Mridha  
-- **Matriculation Number:** 30494592
-
+- **Matriculation Number:** 30494592  
+This repository presents a comprehensive academic research project comparing two enterprise data platform solutions used in modern data engineering, analytics, and AI workflows.
 ---
 
 ## 📌 Project Overview
 
-This project presents a **comparative analysis of Cloudera and IBM Cloud** as enterprise-grade data management platforms.  
-The study focuses on how each platform supports **data engineering, analytics, AI/ML workflows, hybrid cloud strategies, and governance** in modern organizations.
+Enterprises need robust solutions to manage, analyze, and secure large-scale data across hybrid and multi-cloud environments. This research compares:
 
-The goal is to understand **which platform is best suited for specific enterprise use cases** from a data science and business perspective.
+- **Cloudera Data Platform (CDP)** – a hybrid, open, multi-cloud data platform  
+- **IBM Cloud Pak for Data** – a unified data & AI platform built on Red Hat OpenShift  
+
+The objective is to evaluate strengths, weaknesses, architecture, governance, AI/ML support, and ideal enterprise use cases. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🗂️ Table of Contents
+
+| Section | Description |
+|---------|-------------|
+| 📁 [Platform Analysis – Cloudera](research/analysis/cloudera_analysis.md) | CDP architecture, governance, use cases |
+| 📁 [Platform Analysis – IBM Cloud](research/analysis/ibm_cloud_analysis.md) | Cloud Pak for Data features and AI focus |
+| 📁 [Comparative Analysis](research/analysis/comparative_analysis.md) | Side-by-side evaluation |
+| 📁 [References](research/references/references.md) | Official sources & documentation |
+| 📁 [Architecture Diagrams](assets/architecture_diagrams/README.md) | Architecture visuals |
+| 📁 [Comparison Charts](assets/comparison_charts/README.md) | Visual comparisons |
+| 📁 [Methodology](docs/methodology.md) | Research & evaluation method |
+| 📁 [Final Project Report](docs/project_report.md) | Full academic summary |
 
 ---
 
@@ -37,9 +59,10 @@ The goal is to understand **which platform is best suited for specific enterpris
 
 ---
 
-## 🧠 Platform Overview
+## 🧠 Platform Architectures Overview
 
 ### 🔹 Cloudera
+Cloudera supports hybrid and multi-cloud deployment with separation of compute and storage. It includes:  
 - Originated from the Hadoop ecosystem (Founded in 2008)
 - Cloudera Data Platform (CDP) supports hybrid & multi-cloud
 - Strong focus on:
@@ -51,11 +74,14 @@ The goal is to understand **which platform is best suited for specific enterpris
   - Centralized governance & security
   - Scalable analytics pipelines
 
-🔗 Official Website: https://de.cloudera.com/
+🔗 Official Website: https://de.cloudera.com/  
+![Cloudera Architecture](assets/architecture_diagrams/cloudera_architecture.png)  
+*Source: Cloudera CDP official documentation*
 
 ---
 
-### 🔹 IBM Cloud
+### 🔹 IBM Cloud Pak for Data Architecture  
+IBM Cloud Pak for Data runs on Red Hat OpenShift and focuses on:  
 - Enterprise-focused cloud platform (IaaS & PaaS)
 - Strong AI integration via **IBM Watson**
 - Hybrid cloud leadership through **Red Hat OpenShift**
@@ -64,7 +90,9 @@ The goal is to understand **which platform is best suited for specific enterpris
   - AI-driven analytics
   - Enterprise-grade compliance & security
 
-🔗 Official Website: https://www.ibm.com/de-de
+🔗 Official Website: https://www.ibm.com/de-de  
+![IBM Architecture](assets/architecture_diagrams/ibm_cloud_architecture.png)  
+*Based on IBM Cloud Pak for Data official docs*
 
 ---
 
@@ -80,21 +108,38 @@ The goal is to understand **which platform is best suited for specific enterpris
 
 ---
 
-## 🔍 Methodology
+## 📊 Feature Comparison
 
-- Literature review of official documentation & whitepapers
-- Feature comparison using defined evaluation criteria
-- Analysis of enterprise use cases and architectures
-- Comparative evaluation from a data science perspective
+| Feature | Cloudera CDP | IBM Cloud Pak for Data |
+|----------|--------------|------------------------|
+| Hybrid Cloud Support | ✔ Excellent | ✔ Excellent |
+| AI/ML Integration | ✔ Good | ✔ Very Strong |
+| Data Governance | SDX | Knowledge Catalog |
+| Managed Services | Moderate | Excellent |
+| Ideal Use Cases | Data Engineering, Lakes | AI/ML & Managed Analytics |
 
 ---
 
-## 📌 Key Insights
+## 🔍 Methodology
 
-- Cloudera excels in **scalable data engineering workflows**
-- IBM Cloud is stronger in **AI-driven enterprise solutions**
-- Hybrid cloud strategy is a key differentiator for both platforms
-- Platform choice depends heavily on **organizational needs & data maturity**
+This research followed a structured academic research methodology:
+
+1. **Literature Review:** Official vendor docs & whitepapers  
+2. **Feature Extraction:** Core capabilities & differences  
+3. **Comparative Analysis:** Side-by-side evaluation  
+4. **Reporting:** Summary & recommendations
+
+Find the detailed methodology → `docs/methodology.md`
+
+---
+
+## 📌 Project Insights & Business Value
+
+- **Cloudera CDP** excels in hybrid data lake workflows and governance with SDX. 
+- **IBM Cloud Pak for Data** offers stronger AI integration and managed services via OpenShift.   
+- The best platform depends on enterprise priorities:  
+  - **Open data engineering & analytics pipelines** → Cloudera  
+  - **End-to-end AI & governance** → IBM
 
 ---
 
@@ -137,5 +182,11 @@ Cloudera-IBM-Cloud-Data-Management-Comparison/
   - 📚 Reference materials
   - 📄 Final academic report
 
-## 📬 Contact  
-- LinkedIn: https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155 
+## ✉️ Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/md-abdullah-al-noman-333aa4155  
+📁 GitHub: https://github.com/nomanmridha
+
+---
+
+*This repository demonstrates academic rigor and enterprise-focused analytical skills, showcasing a strong profile for data analytics and data engineering roles.*  
