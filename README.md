@@ -1,6 +1,6 @@
 # 📊 Enterprise Data Platform Comparison  
 ## Cloudera Data Platform vs IBM Cloud Pak for Data  
-![Platform Comparison](./assets/comparison_charts/cloudera_vs_ibm_comparison.png)
+![Platform Comparison](./Dashboard/Cloudera_vs_IBM_Cloud_architecture_comparison.png)
 
 ---
 
@@ -75,7 +75,8 @@ Cloudera supports hybrid and multi-cloud deployment with separation of compute a
   - Scalable analytics pipelines
 
 🔗 Official Website: https://de.cloudera.com/  
-![Cloudera Architecture](assets/architecture_diagrams/cloudera_architecture.png)  
+![Cloudera Architecture](./Dashboard/Cloudera_Definition.png)  
+![Cloudera Architecture](./Dashboard/Cloudera_Overview.png)
 *Source: Cloudera CDP official documentation*
 
 ---
@@ -91,7 +92,8 @@ IBM Cloud Pak for Data runs on Red Hat OpenShift and focuses on:
   - Enterprise-grade compliance & security
 
 🔗 Official Website: https://www.ibm.com/de-de  
-![IBM Architecture](assets/architecture_diagrams/ibm_cloud_architecture.png)  
+![IBM Architecture](./Dashboard/IBM_Definition.png)    
+![IBM Architecture](./Dashboard/IBM_Ai_Use_Case.png)
 *Based on IBM Cloud Pak for Data official docs*
 
 ---
@@ -181,6 +183,11 @@ Cloudera-IBM-Cloud-Data-Management-Comparison/
   - 📝 Research analysis documents
   - 📚 Reference materials
   - 📄 Final academic report
+
+## Use case of Cloudera & IBM Hybrid Cloud Products Overview  
+![Cloudera Use Case Architecture](./Dashboard/Cloudera_Use_Case.png)
+![IBM Hybrid Cloud Products](./Dashboard/IBM_Hybrid_Cloud_Products.png)
+
 
 ## ✉️ Contact
 
