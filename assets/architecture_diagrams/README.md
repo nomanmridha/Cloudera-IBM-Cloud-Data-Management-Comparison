@@ -2,7 +2,7 @@
 
 This folder is reserved for visual assets.
 
-### SDiagrams:
+### Diagrams:
 - **Cloudera CDP Architecture (high-level hybrid deployment diagram)**
 - **IBM Cloud Pak for Data architecture**
 - **Comparison of hybrid cloud workflows**
