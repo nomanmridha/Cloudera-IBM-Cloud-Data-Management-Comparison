@@ -1,3 +1,10 @@
 # Architecture Diagrams
 
-This folder contains architecture diagrams for Cloudera CDP and IBM Cloud Pak for Data.
+This folder is reserved for visual assets.
+
+### SDiagrams:
+- **Cloudera CDP Architecture (high-level hybrid deployment diagram)**
+- **IBM Cloud Pak for Data architecture**
+- **Comparison of hybrid cloud workflows**
+
+
