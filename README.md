@@ -13,12 +13,12 @@
 ---
 
 ## 🏫 Academic Context
-- **University:** Fachhochschule Südwestfalen (South Westphalia University of Applied Sciences)
-- **Program:** M.Sc. Informatics & Business (Informatik und Wirtschaft)
-- **Course:** Data Science Project Seminar – Driving Corporate Performance
-- **Semester:** Summer Semester 2025
-- **Student:** Md Abdullah Al Noman Mridha  
-- **Matriculation Number:** 30494592  
+  - **University:** Fachhochschule Südwestfalen (South Westphalia University of Applied Sciences)
+  - **Program:** M.Sc. Informatics & Business (Informatik und Wirtschaft)
+  - **Course:** Data Science Project Seminar – Driving Corporate Performance
+  - **Semester:** Summer Semester 2025
+  - **Student:** Md Abdullah Al Noman Mridha  
+  - **Matriculation Number:** 30494592  
 This repository presents a comprehensive academic research project comparing two enterprise data platform solutions used in modern data engineering, analytics, and AI workflows.
 ---
 
@@ -26,10 +26,10 @@ This repository presents a comprehensive academic research project comparing two
 
 Enterprises need robust solutions to manage, analyze, and secure large-scale data across hybrid and multi-cloud environments. This research compares:
 
-- **Cloudera Data Platform (CDP)** – a hybrid, open, multi-cloud data platform  
-- **IBM Cloud Pak for Data** – a unified data & AI platform built on Red Hat OpenShift  
+  - **Cloudera Data Platform (CDP)** – a hybrid, open, multi-cloud data platform  
+  - **IBM Cloud Pak for Data** – a unified data & AI platform built on Red Hat OpenShift  
 
-The objective is to evaluate strengths, weaknesses, architecture, governance, AI/ML support, and ideal enterprise use cases. :contentReference[oaicite:1]{index=1}
+The objective is to evaluate strengths, weaknesses, architecture, governance, AI/ML support, and ideal enterprise use cases. 
 
 ---
 
@@ -44,7 +44,7 @@ The objective is to evaluate strengths, weaknesses, architecture, governance, AI
 | 📁 [Architecture Diagrams](assets/architecture_diagrams/README.md) | Architecture visuals |
 | 📁 [Comparison Charts](assets/comparison_charts/README.md) | Visual comparisons |
 | 📁 [Methodology](docs/methodology.md) | Research & evaluation method |
-| 📁 [Final Project Report](docs/project_report.md) | Full academic summary |
+| 📁 [Final Project Report](docs/README.md) | Full academic summary |
 
 ---
 
